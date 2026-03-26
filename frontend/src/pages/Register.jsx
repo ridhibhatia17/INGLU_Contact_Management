@@ -43,7 +43,7 @@ const Register = () => {
               value={formData.name}
               onChange={onChange}
               required
-              placeholder="e.g. John Doe"
+              placeholder="e.g. Example Name"
             />
           </div>
           <div className="form-group">
@@ -55,7 +55,7 @@ const Register = () => {
               value={formData.email}
               onChange={onChange}
               required
-              placeholder="e.g. john@example.com"
+              placeholder="e.g. email@example.com"
             />
           </div>
           <div className="form-group">

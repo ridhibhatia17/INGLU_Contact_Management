@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className="navbar">
       <Link to="/" className="navbar-brand">
         <Users size={24} color="#6366f1" />
-        Vortex Contacts
+        INGLU Contacts
       </Link>
       
       <div className="navbar-nav">

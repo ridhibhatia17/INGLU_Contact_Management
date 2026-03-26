@@ -43,7 +43,7 @@ const Login = () => {
               value={formData.email}
               onChange={onChange}
               required
-              placeholder="e.g. john@example.com"
+              placeholder="e.g. email@example.com"
             />
           </div>
           <div className="form-group">
